@@ -1,6 +1,6 @@
 # EDA
 
-![alt text](http://url/to/https://www.knowledgehut.com/_next/image?url=https%3A%2F%2Fd2o2utebsixu4k.cloudfront.net%2Fmedia%2Fimages%2F1713966453548-eda%20data%20science-06.jpg&w=1080&q=75)
+![alt text](https://www.knowledgehut.com/_next/image?url=https%3A%2F%2Fd2o2utebsixu4k.cloudfront.net%2Fmedia%2Fimages%2F1713966453548-eda%20data%20science-06.jpg&w=1080&q=75)
 
 ##Advantages of Using EDA
 Here are a few advantages of using Exploratory Data Analysis - 
