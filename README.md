@@ -1,4 +1,4 @@
-# EDA
+# Exploratory Data Analysis
 ## Types of Exploratory Data Analysis
 ### There are three main types of EDA:
 
